@@ -2,4 +2,4 @@ Git is a distributed version control system,
 Git is free software distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
-create a branch is quite recommend method!
+Creating a branch is a recommend method!
